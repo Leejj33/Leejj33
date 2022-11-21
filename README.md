@@ -5,7 +5,7 @@
 <p align="center"> Tech that I've used at least once </p>
 
 <p align="center">
-  ![](https://<img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=white"/></a>&nbsp)
+  ![](https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=white)
 </p>
 
 
