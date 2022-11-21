@@ -1,8 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color-auto&heigt=300&section=header&text=JaejunLee&fontSize=90)
 
-<h3 align="center">
+<h3 align="center">🛠Tech Stack🛠</h3>
 
-🛠Texh Stack🛠
+<p align="center"> Tech that I've used at least once </p>
+
+<p align="center">
+  ![](https://<img src="https://img.shields.io/badge/java-ffffff?style=flat-square&logo=java&logoColor=white"/></a>&nbsp)
+</p>
+
+
 
 <!--
 **Leejj33/Leejj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
