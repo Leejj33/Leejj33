@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color-auto&heigt=300&section=header&text=JaejunLee&fontSize=90)
 
-### Hi there 👋
+<h3 align="center">
+
+🛠Texh Stack🛠
 
 <!--
 **Leejj33/Leejj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
