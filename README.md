@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaejunLee&fontSize=90)
+
 <br>
+
 <h3 align="center">🛠Tech Stack🛠</h3>
 <p align="center"> Tech that I've used at least once </p>
 <p align="center">
@@ -13,9 +15,9 @@
   <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sourcetree-blue?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
+</p>
 
 <br>
-</p>
 
 <h3 align="center">📫Contact📫</h3>
 <p align="center">
