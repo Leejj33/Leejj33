@@ -18,7 +18,8 @@
 </p>
 
 <h3 align="center">📫Contact📫</h3>
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)  
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 <!--
 **Leejj33/Leejj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
