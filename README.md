@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color-auto&height=350&section=header&text=JaejunLee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color-auto&height=300&section=header&text=JaejunLee&fontSize=90)
 <br>
-<br>
-<br>
-
 <h3 align="center">🛠Tech Stack🛠</h3>
 <br>
 <p align="center"> Tech that I've used at least once </p>
