@@ -10,8 +10,9 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=OpenJDK&logoColor=white"/></a>&nbsp 
    
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
 </p>
 
 
