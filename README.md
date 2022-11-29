@@ -17,8 +17,8 @@
   <img src="https://img.shields.io/badge/Sourcetree-blue?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">Contact</h3>
-
+<h3 align="center">📫Contact📫</h3>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)  
 <!--
 **Leejj33/Leejj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
