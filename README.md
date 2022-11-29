@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color-auto&height=300&section=header&text=JaejunLee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=JaejunLee&fontSize=90)
 <br>
 <h3 align="center">🛠Tech Stack🛠</h3>
 <br>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Sourcetree-blue?style=flat-square&logo=Sourcetree&logoColor=white"/></a>&nbsp 
 </p>
 
-
+<h3 align="center">Contact</h3>
 
 <!--
 **Leejj33/Leejj33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
